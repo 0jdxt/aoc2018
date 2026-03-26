@@ -3,3 +3,4 @@ __pycache__
 
 .advent_history
 *.sublime-*
+input_data/
