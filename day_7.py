@@ -76,7 +76,7 @@ def build_instructions(data: List[Tuple[str, str]]) -> Dict[str, Node]:
 def main() -> None:
 
     ir = r"^Step (\w).+(\w) can begin.$"
-    with open("input_data/day_7") as f:
+    with open("data/day_7") as f:
         instructions = build_instructions(re.findall(ir, f.read(), re.M))
 
     dur1 = {c: 1 for c in string.ascii_uppercase}

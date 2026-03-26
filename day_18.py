@@ -11,7 +11,7 @@ def print_grid(grid):
 
 
 def main():
-    with open("input_data/day_18") as f:
+    with open("data/day_18") as f:
         data = [list(line.strip()) for line in f]
 
     rows = len(data)

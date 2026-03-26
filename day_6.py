@@ -7,7 +7,7 @@ import string
 
 
 def main() -> None:
-    with open("input_data/day_6") as f:
+    with open("data/day_6") as f:
         data = f.read()
     coord_re = re.compile(r"^(\d+), (\d+)$", re.M)
     coords = [(int(x), int(y)) for x, y in coord_re.findall(data)]

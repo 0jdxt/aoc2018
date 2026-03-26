@@ -66,7 +66,7 @@ class GuardsDict(Dict[str, Guard]):
 
 
 def main() -> None:
-    with open("input_data/day_4") as f:
+    with open("data/day_4") as f:
         data = f.read()
 
     sleep_re = r"^\[(\d+)-(\d+)-(\d+) (\d+):(\d+)\] (.+)$"

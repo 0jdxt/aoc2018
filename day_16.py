@@ -98,7 +98,7 @@ ops = set(
 print = pprint
 
 if __name__ == "__main__":
-    with open("input_data/day_16") as f:
+    with open("data/day_16") as f:
         data = f.read().split("\n\n\n")
 
     n_gt2 = 0

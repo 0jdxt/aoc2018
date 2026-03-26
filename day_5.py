@@ -21,7 +21,7 @@ def react(poly: str) -> str:
 
 
 def main() -> None:
-    with open("input_data/day_5") as f:
+    with open("data/day_5") as f:
         data = f.read().strip()
 
     x = "dabAcCaCBAcCcaDA"

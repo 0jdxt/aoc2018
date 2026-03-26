@@ -53,7 +53,7 @@ def get_neighbours(p: Point) -> List[Point]:
 
 
 if __name__ == "__main__":
-    with open("input_data/day_15") as f:
+    with open("data/day_15") as f:
         data = [list(line.strip()) for line in f]
 
     # print("\n".join("".join(row) for row in data))

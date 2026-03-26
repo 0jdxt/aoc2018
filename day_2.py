@@ -3,7 +3,7 @@
 from typing import Set
 from collections import Counter
 
-with open("input_data/day_2") as f:
+with open("data/day_2") as f:
     data = f.read().splitlines()
 
 twos = threes = 0

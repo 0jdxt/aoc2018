@@ -39,7 +39,7 @@ class Cart:
 
 
 if __name__ == "__main__":
-    with open("input_data/day_13") as f:
+    with open("data/day_13") as f:
         tracks = [list(line.strip("\n")) for line in f]
 
     carts = []

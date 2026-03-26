@@ -3,7 +3,7 @@
 import re
 from collections import namedtuple
 
-with open("input_data/day_3") as f:
+with open("data/day_3") as f:
     data = f.read()
 
 claim_re = r"^#(\d+) @ (\d+),(\d+): (\d+)x(\d+)$"

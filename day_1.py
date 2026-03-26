@@ -2,7 +2,7 @@
 """--- Day 1: Chronal Calibration ---"""
 from typing import Set
 
-with open("input_data/day_1") as f:
+with open("data/day_1") as f:
     data = f.read().splitlines()
 
 top = len(data)

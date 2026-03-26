@@ -32,7 +32,7 @@ def pmin(points):
 
 if __name__ == "__main__":
     regex = r"<(.+),(.+)>.+<(.+),(.+)>"
-    with open("input_data/day_10") as f:
+    with open("data/day_10") as f:
         points = [Point(*map(int, x)) for x in re.findall(regex, f.read(), re.M)]
 
     # move points until height of grid < 50

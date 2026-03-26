@@ -4,7 +4,7 @@ from collections import defaultdict
 
 if __name__ == "__main__":
 
-    with open("input_data/day_12") as f:
+    with open("data/day_12") as f:
         initial = f.readline().strip().split(": ")[1]
         f.readline()
         data = [line.strip().split(" => ") for line in f]

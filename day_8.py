@@ -34,7 +34,7 @@ def build_tree(data: List[int]) -> Tuple[Node, int]:
 
 
 def main() -> None:
-    with open("input_data/day_8") as f:
+    with open("data/day_8") as f:
         data = f.read()
     # data = "2 3 0 3 10 11 12 1 1 0 1 99 2 1 1 2"
 
