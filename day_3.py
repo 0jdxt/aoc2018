@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python
 """--- Day 3: No Matter How You Slice It ---"""
 import re
 from collections import namedtuple

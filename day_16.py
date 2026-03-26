@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python
 """--- Day 16: Chronal Classification ---"""
 import re
 from typing import Dict, Callable, List, Set

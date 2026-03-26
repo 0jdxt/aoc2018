@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python
 """--- Day 6: Chronal Coordinates ---"""
 from typing import List, Tuple, Dict, Set
 from collections import defaultdict

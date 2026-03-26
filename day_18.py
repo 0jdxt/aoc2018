@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python
 """--- Day 18: Settlers of The North Pole ---"""
 from typing import Counter as TCounter, List, Set
 from collections import Counter

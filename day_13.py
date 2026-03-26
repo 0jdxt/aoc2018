@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python
 """--- Day 13: Mine Cart Madness ---"""
 from typing import List
 from itertools import cycle

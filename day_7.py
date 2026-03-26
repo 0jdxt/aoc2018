@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python
 """--- Day 7: The Sum of Its Parts ---"""
 from typing import Set, Dict, List, Tuple, Deque
 from collections import defaultdict, namedtuple, deque

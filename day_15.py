@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python
 """--- Day 15: Beverage Bandits ---"""
 from typing import List, Dict, Tuple, Optional
 from collections import defaultdict, deque

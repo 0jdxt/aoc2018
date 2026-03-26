@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python
 """--- Day 1: Chronal Calibration ---"""
 from typing import Set
 

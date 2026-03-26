@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python
 """--- Day 5: Alchemical Reduction ---"""
 import string
 import sys

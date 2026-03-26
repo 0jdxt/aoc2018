@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python
 """--- Day 8: Memory Maneuver ---"""
 from typing import List, Tuple
 from collections import namedtuple

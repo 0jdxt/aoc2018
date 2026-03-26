@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python
 """--- Day 2: Inventory Management System ---"""
 from typing import Set
 from collections import Counter

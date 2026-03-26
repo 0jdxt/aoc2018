@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python
 """--- Day 4: Repose Record ---"""
 
 from typing import List, Dict, Optional, Any, Tuple, Callable

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python
 """--- Day 11: Chronal Charge ---"""
 from functools import lru_cache
 

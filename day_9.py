@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python
 """--- Day 9: Marble Mania ---"""
 from collections import deque
 from itertools import cycle
